@@ -9,6 +9,8 @@ o.ORDERCOSTPRICE,
 c.customername,
 c.segment,
 c.country,
+c.customerid,
+p.productid,
 p.category,
 p.productname,
 p.subcategory
